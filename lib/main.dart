@@ -42,7 +42,7 @@ class ConnectWalletPage extends StatelessWidget {
     return Center(
       child: Column(
         children: [
-          Text('\$PUTIN',
+          Text('\$PUTINnn',
             style: TextStyle(
                 color: Colors.white,),
           ),
