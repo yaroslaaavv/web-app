@@ -1,4 +1,4 @@
-#Mon Jun 03 10:00:16 MSK 2024
+#Mon Jun 03 18:43:56 MSK 2024
 base.0=C\:\\Users\\yaroslav\\ProjectsForAndroid\\my_web_app\\build\\app\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
 base.1=C\:\\Users\\yaroslav\\ProjectsForAndroid\\my_web_app\\build\\app\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
 base.2=C\:\\Users\\yaroslav\\ProjectsForAndroid\\my_web_app\\build\\app\\intermediates\\dex\\debug\\mergeProjectDexDebug\\12\\classes.dex

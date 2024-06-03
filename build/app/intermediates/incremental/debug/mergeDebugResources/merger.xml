@@ -144,6 +144,7 @@
         <item name="android:windowBackground">@drawable/launch_background</item>
     </style><style name="NormalTheme" parent="@android:style/Theme.Light.NoTitleBar">
         <item name="android:windowBackground">?android:colorBackground</item>
+        <item name="android:defaultFocusHighlightEnabled">false</item>
     </style></file><file path="C:\Users\yaroslav\ProjectsForAndroid\my_web_app\android\app\src\main\res\values-night\styles.xml" qualifiers="night-v8"><style name="LaunchTheme" parent="@android:style/Theme.Black.NoTitleBar">
         
         <item name="android:windowBackground">@drawable/launch_background</item>
