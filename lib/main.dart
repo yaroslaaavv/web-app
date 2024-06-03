@@ -46,6 +46,7 @@ class ConnectWalletPage extends StatelessWidget {
             style: TextStyle(
                 color: Colors.white,),
           ),
+          SizedBox(height: 25,),
           Container(
             width: 100,
             height: 100,
@@ -53,6 +54,7 @@ class ConnectWalletPage extends StatelessWidget {
               image: AssetImage('assets/images/zzz.jpg'),
             ),
           ),
+          SizedBox(height: 25,),
           ElevatedButton(
             style: ButtonStyle(backgroundColor: MaterialStateProperty.all(Colors.blue)),
             onPressed: () {
